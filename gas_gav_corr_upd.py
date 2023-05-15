@@ -42,4 +42,4 @@ t_pc =((1-h2s_comp-co2_comp-n2_comp-h2o_comp) * t_pch + (672.35*h2s_comp) + (547
 
 # displaying the results.
 print('The hydrocarbon pseudo-critical pressure is {0:.2f} psia'.format(p_pch))
-print('The hydrocarbon pseudo-critical temperature is {0:.2f} deg Rankine'.format(p_pch
+print('The hydrocarbon pseudo-critical temperature is {0:.2f} deg Rankine'.format(p_pch))
